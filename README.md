@@ -105,7 +105,7 @@
 </div><br>
 
 <!--
-## 📞 𝒞𝑜𝓃𝓉𝒶𝒸𝓉
+## 📞 𝒞𝑜𝓃𝓉𝒶𝒸𝓉 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48px">
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:jaemin6292@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"> 
