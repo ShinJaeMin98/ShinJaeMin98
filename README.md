@@ -9,6 +9,14 @@
 
 
 <br>
+
+## 📝 𝐿𝑒𝒶𝓇𝓃𝒾𝓃𝑔
+<div style="display:flex; flex-direction:column;">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinjaeMin98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![ShinJaeMin98's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinjaeMin98&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/ShinjaeMin98/github-readme-stats)
+
+</div>
     
 ## 💻 𝒪𝓃𝒸𝑒 𝐼'𝓋𝑒 𝒰𝓈𝑒𝒹
 
@@ -83,28 +91,20 @@
     </div>    
 </div><br>
 
-<!--
 ## 📑 𝒟𝐸𝒱'𝓈 𝓁𝑜𝑔
 <div style="display:flex; flex-direction:row;">
-    <a href="https://github.com/cheez0909/Spring">
+    <a href="https://github.com/ShinJaeMin98/SecondBooks_Project">
     <img src="https://img.shields.io/badge/Portfolio-FFC0CB?style=flat"> 
     </a>
-    <a href="https://velog.io/@dani0817">
+    <a href="https://velog.io/@jaemin0615">
         <img src="https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white"> 
     </a>
  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dani0817)](https://velog.io/@dani0817)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jaemin0615)](https://velog.io/@jaemin0615)
 
 </div><br>
 
-## 📝 𝐿𝑒𝒶𝓇𝓃𝒾𝓃𝑔
-<div style="display:flex; flex-direction:column;">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinjaeMin98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![cheez0909's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinjaeMin98&include_all_commits=true&show_icons=true&theme=neon)](https://github.com/ShinjaeMin98/github-readme-stats)
-
-</div>
- 
+<!--
 ## 📞 𝒞𝑜𝓃𝓉𝒶𝒸𝓉
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:jaemin6292@gmail.com">
