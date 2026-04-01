@@ -91,13 +91,13 @@
 </div><br>
 
 ## 📑 𝒟𝐸𝒱'𝓈 𝓁𝑜𝑔
-<div style="display:flex; flex-direction:row;">
+<!-- <div style="display:flex; flex-direction:row;">
     <a href="https://puzzled-kite-cc5.notion.site/Portfolio-a587fa6672cd4ae287330b33597971bc?pvs=4">
     <img src="https://img.shields.io/badge/Portfolio-FFC0CB?style=flat"> 
     </a>
     <a href="https://velog.io/@jaemin0615">
         <img src="https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white"> 
-    </a>
+    </a> -->
  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jaemin0615)](https://velog.io/@jaemin0615)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaemin0615)](https://solved.ac/jaemin0615)
