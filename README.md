@@ -22,6 +22,7 @@
 ### ✍️ Language
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <div>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
         <img src="https://img.shields.io/badge/Java-FF160B?style=flat&logo=Java&logoColor=white"/></a>
         <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> 
@@ -58,7 +59,8 @@
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <div>
         <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"> 
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
+        <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
+        <img src="https://img.shields.io/badge/mssql-00758F?style=flat&logo=mssql&logoColor=white">
     </div>
 </div><br>
 
@@ -66,7 +68,7 @@
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <div>
         <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black">
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazon aws&logoColor=white">
+        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
         <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white">
     </div>    
 </div><br>
@@ -104,12 +106,14 @@
 
 </div><br>
 
+<!--
 ## 📞 𝒞𝑜𝓃𝓉𝒶𝒸𝓉 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48px">
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:jaemin6292@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"> 
     </a>
 </div>
+-->
 
 <!--
 **ShinJaeMin98/ShinJaeMin98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
