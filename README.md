@@ -13,8 +13,8 @@
 ## 📝 𝐿𝑒𝒶𝓇𝓃𝒾𝓃𝑔
 <div style="display:flex; flex-direction:column;">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinjaeMin98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![ShinJaeMin98's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinjaeMin98&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/ShinjaeMin98/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ShinjaeMin98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![ShinJaeMin98's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ShinjaeMin98&include_all_commits=true&show_icons=true&theme=tokyonight)
 </div>
     
 ## 💻 𝒪𝓃𝒸𝑒 𝐼'𝓋𝑒 𝒰𝓈𝑒𝒹
@@ -104,18 +104,12 @@
 
 </div><br>
 
-<!--
 ## 📞 𝒞𝑜𝓃𝓉𝒶𝒸𝓉 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48px">
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:jaemin6292@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"> 
     </a>
-    <a href="https://open.kakao.com/o/sKEqRaXf">
-        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logoColor=black&logo=KakaoTalk"> 
-    </a>
 </div>
-</div>
--->
 
 <!--
 **ShinJaeMin98/ShinJaeMin98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
